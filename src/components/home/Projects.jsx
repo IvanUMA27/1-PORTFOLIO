@@ -117,7 +117,7 @@ function Projects() {
         </div>
 
         <div className="text-center mt-16">
-          <a href="https://about:blank" className="btn-secondary" target="_blank" rel="noreferrer">
+          <a href="https://github.com/IvanUMA27" className="btn-secondary" target="_blank" rel="noreferrer">
             Ver más proyectos en GitHub
           </a>
         </div>
