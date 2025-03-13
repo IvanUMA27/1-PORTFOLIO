@@ -17,7 +17,7 @@ function About() {
           <div className="profile neon-border">
             <div className="relative">
               <img
-                src="src/Images/profile.png?height=600&width=800"
+                src="./src/Images/profile.png?height=600&width=800"
                 alt="Ivan Developer"
                 className="rounded-xl shadow-2xl w-full h-auto object-cover"
               />

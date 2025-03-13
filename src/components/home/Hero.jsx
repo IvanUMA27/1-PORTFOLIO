@@ -54,7 +54,7 @@ function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-primary to-secondary rounded-full blur-xl opacity-20"></div>
               <div className="full h-full rounded-full">
                 <img
-                  src="src/Images/profile.png?height=320&width=320"
+                  src="./src/Images/profile.png?height=320&width=320"
                   alt="Ivan Developer"
                   className="border-4 rounded-full object-cover w-full h-full"
                 />

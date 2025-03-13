@@ -20,12 +20,6 @@ Este es mi portfolio personal donde muestro mis proyectos, habilidades y experie
   - CSS
   - JavaScript
   - [Framework/Librería] React - tailwindcss
-- **Herramientas de Construcción**:
-  - [Herramienta] (e.g., Webpack, Vite)
-  - [Preprocesador CSS] (e.g., SASS, LESS)
-- **Otras**:
-  - [Librerías o Plugins] (e.g., AOS para animaciones, Swiper para carruseles)
-
 ## 📦 Instalación y Uso
 
 Si deseas clonar y modificar este portfolio para adaptarlo a tus necesidades, sigue estos pasos:
