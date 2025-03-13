@@ -24,11 +24,11 @@ const softSkills = [
 ]
 
 const technologies = [
-  { name: "React", icon: "./src/Images/Skills/react.svg?height=60&width=60&text=React" },
-  { name: "Next.js", icon: "./src/Images/Skills/nextjs.svg?height=60&width=60&text=Next" },
-  { name: "Node.js", icon: "./src/Images/Skills/node-js.svg?height=60&width=60&text=Node" },
-  { name: "mySQL", icon: "./src/Images/Skills/mysql-logo.svg?height=60&width=60&text=Mongo" },
-  { name: "Tailwind CSS", icon: "./src/Images/Skills/tailwind-svgrepo-com.svg?height=60&width=60&text=Tailwind" },
+  { name: "React", icon: "../src/Images/Skills/react.svg?height=60&width=60&text=React" },
+  { name: "Next.js", icon: "../src/Images/Skills/nextjs.svg?height=60&width=60&text=Next" },
+  { name: "Node.js", icon: "../src/Images/Skills/node-js.svg?height=60&width=60&text=Node" },
+  { name: "mySQL", icon: "../src/Images/Skills/mysql-logo.svg?height=60&width=60&text=Mongo" },
+  { name: "Tailwind CSS", icon: "../src/Images/Skills/tailwind-svgrepo-com.svg?height=60&width=60&text=Tailwind" },
 ]
 
 function Skills() {
